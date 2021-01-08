@@ -7,6 +7,7 @@
     <StartupObject />
     <Version>3.0.3</Version>
     <Configurations>Debug;Release;test</Configurations>
+    <PackageId>HuaweiCloud.Obs</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
